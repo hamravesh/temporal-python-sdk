@@ -21,7 +21,7 @@ setuptools.setup(
         "grpclib==0.3.2",
         "h2==3.2.0",
         "more-itertools==7.0.0",
-        "pytz==2020.1",
+        "pytz>=2021.3",
         "tblib==1.6.0"
     ],
     classifiers=[
